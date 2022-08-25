@@ -39,6 +39,7 @@ header > nav > ul{
 header > nav > ul > li{
     color: white;
     margin-right: 50px;
+    transition: all 0.5s;
 }
 header > nav > ul > li:hover{
     color: #24ACEB;
