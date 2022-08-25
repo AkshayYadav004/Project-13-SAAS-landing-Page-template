@@ -6,6 +6,10 @@ Link to the website: [Deploy Link](https://saas-landing-webpage-13.netlify.app/)
 
 > Screen Record of the web page
 
+
+https://user-images.githubusercontent.com/93306167/186571156-60813486-ba34-4276-9e2c-cfae2a3e1337.mp4
+
+
 > Screec Shots of the web page:->
 ![Image-1](./Readme_images/SAAS%20image-1.png)
 >Screenshot -> 1
