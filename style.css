@@ -162,8 +162,7 @@ header > nav > button:hover{
 
 /* ========= Last section ========= */
 .footer_section{
-    max-width: 80vw;
-    margin: 5em auto;
+    padding: 50px 200px;
     display: grid;
     gap: 70px;
     grid-template-columns: repeat(4, 2fr);
