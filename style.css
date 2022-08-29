@@ -21,7 +21,6 @@ header > nav{
         gap: 20px;
         flex-direction: column;
         align-items: flex-start;
-        background-color:#CE6BDE;
     }
 }
 header > nav > ul{
